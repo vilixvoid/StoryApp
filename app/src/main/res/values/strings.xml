@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Mau berbagi cerita, tapi bingung mau cerita ke siapa? yuk bagikan ceritamu di Story App aja!</string>
+    <string name="title_welcome_page">Selamat datang di Story App!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk berbagi ceritamu?</string>
+    <string name="name">Nama</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="fabAddStory">Fab ini digunakan untuk tombol menambahkan cerita anda</string>
+    <string name="txt_item_name">Nama</string>
+    <string name="txt_item_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris\n        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus\n        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad\n        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend\n        diam, vel rutrum tellus vulputate quis.</string>
+    <string name="txt_detail_name">Nama</string>
+    <string name="txt_title_detail_description">Deskripsi</string>
+    <string name="txt_detail_description">Ini adalah detail deskripsi</string>
+    <string name="action_logout">Keluar</string>
+    <string name="txt_button_camerax">Kamera</string>
+    <string name="txt_button_gallery">Galeri</string>
+    <string name="txt_description_story">Deskripsi cerita disini</string>
+    <string name="txt_button_add">Tambahkan Ceritamu</string>
+    <string name="password_too_short">Password tidak boleh kurang dari 8 karakter</string>
+    <string name="email_format_invalid">Format email salah</string>
+    <string name="setMessageSuccessSignup">Selamat! Akun telah dibuat.</string>
+    <string name="setMessageErrorSignup">Gagal untuk membuat akun!.</string>
+    <string name="setPositiveSuccess">Lanjut</string>
+    <string name="setPositiveFailed">Kembali</string>
+    <string name="setTitleSuccess">Berhasil!</string>
+    <string name="setTitleFailed">Gagal!</string>
+    <string name="setMessageSuccessLogin">Selamat! Akun Berhasil Login</string>
+    <string name="setMessageErrorLogin">Gagal untuk login akun!</string>
+    <string name="actionBarHome">Cerita</string>
+    <string name="actionBarAddStory">Tambahkan Cerita</string>
+    <string name="actionBarDetail">Detail Cerita</string>
+    <string name="setMessageLogout">Logout Berhasil!</string>
+    <string name="setMessageSuccessUpload" translatable="false">Ceritamu berhasil di unggah!</string>
+    <string name="setMessageFailedUpload">Ceritamu gagal di unggah!</string>
+    <string name="permissionGranted">Permintaan izin dikabulkan</string>
+    <string name="permissionDenied">Permintaan izin ditolak</string>
+</resources>
